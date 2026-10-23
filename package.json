@@ -1,0 +1,9 @@
+{
+  "name": "northstar-market-research",
+  "private": true,
+  "version": "0.2.0",
+  "type": "module",
+  "scripts": { "start": "node server.mjs" },
+  "dependencies": { "ws": "^8.22.0" },
+  "engines": { "node": ">=20" }
+}
